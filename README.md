@@ -1,7 +1,7 @@
 CppCommon
 =========
 
-C++ header-only library of little helper and common functions.
+C++ header-only collection of little helpers and common functions.
 
 **Author:** Christian Koch
 

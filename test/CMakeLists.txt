@@ -12,7 +12,9 @@ enable_testing()
 add_executable(
   tests
   test_hello.cpp
+  math/test_math_common.cpp
   math/test_point_generator.cpp
+  math/test_angles.cpp
 )
 target_link_libraries(
   tests
